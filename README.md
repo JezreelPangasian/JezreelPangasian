@@ -17,4 +17,6 @@ I am an IT student at Xavier University, driven by a curiosity for technology an
 ## 🏆 Achievements
 - 🌟 Completed Git & GitHub Setup 2024
 
+Fun Fact!
+I am working as a part time Video Editor.
 Thanks for stopping by!
